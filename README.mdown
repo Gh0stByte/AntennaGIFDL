@@ -1,0 +1,43 @@
+# AntennaGIFDL
+
+Download GIFs from Antenna natively
+
+## Installation
+
+Go to Releases and download latest deb & install with iFile/Filza  
+  
+OR  
+
+Clone repo and compile with theos
+
+
+## Usage
+
+NOTE: You MUST enable photo access to be able to save media  
+
+### Save GIF
+* Click GIF to get into full-screen GIF mode
+* Long press & select "Save GIF"  
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## History/Changelog
+
+#### 1.0.0 (1/3/2017)
+* Initial Release  
+
+## Credits
+
+Made by [Gh0stByte](http://twitter.com/Gh0stByte)
+
+Suggestion by /u/GiraffeFactor
+
+## License
+
+TODO: Write license
