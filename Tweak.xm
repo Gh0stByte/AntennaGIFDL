@@ -29,7 +29,7 @@
 		}];
 	}]];
 
-	[actionSheet addAction:[UIAlertAction actionWithTitle:@"Save Video" style:UIAlertActionStyleDefault handler:^(UIAlertAction *action) {
+	[actionSheet addAction:[UIAlertAction actionWithTitle:@"Save GIF" style:UIAlertActionStyleDefault handler:^(UIAlertAction *action) {
 		MBProgressHUD *hud = [MBProgressHUD showHUDAddedTo:self.view animated:YES];
 		hud.label.text = @"Downloading";
 		dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
